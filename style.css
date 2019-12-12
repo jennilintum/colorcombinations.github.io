@@ -1,0 +1,33 @@
+body {
+    margin-top: 65px;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Arbutus Slab', serif;
+}
+h2 {
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    left: 15px;
+    vertical-align: middle;
+}
+a {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+p {
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+.nav {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
